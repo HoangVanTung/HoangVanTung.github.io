@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    color: blue;
+  }
+  .title {
+    color: cadetblue;
+  }
+  #heading {
+    color: red;
+  }
+  h2#heading {
+      color: brown;
+  }
+  h2#heading.title{
+      color: darkorchid;
+  }
+  body h2#heading.title{
+      color: green;
+  }
+  .icon {
+      color: red;
+      font-size: 500px;
+      
+  }
